@@ -10,9 +10,6 @@
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
 - [x] Learn Linux https://tryhackme.com/module/linux-fundamentals
 - [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
-
-**Introductory CTFs to get your feet wet**
-
 - [x] Google Dorking https://tryhackme.com/room/googledorking
 - [ ] OHsint https://tryhackme.com/room/ohsint
 - [ ] Shodan.io https://tryhackme.com/room/shodan
@@ -27,7 +24,7 @@
 - [x] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Shodan https://tryhackme.com/room/shodan
-- [ ] RustScan (I invented RustScan so excuse the self-promo) https://tryhackme.com/room/rustscan
+- [ ] RustScan https://tryhackme.com/room/rustscan
 
 **More introductory CTFs**
 - [ ] Vulnversity - https://tryhackme.com/room/vulnversity

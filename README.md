@@ -24,17 +24,17 @@
 - [x] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Shodan https://tryhackme.com/room/shodan
-- [ ] RustScan https://tryhackme.com/room/rustscan
+- [x] RustScan https://tryhackme.com/room/rustscan
 
 **More introductory CTFs**
-- [ ] Vulnversity - https://tryhackme.com/room/vulnversity
+- [x] Vulnversity - https://tryhackme.com/room/vulnversity
 - [x] Blue - https://tryhackme.com/room/blue
-- [ ] Simple CTF https://tryhackme.com/room/easyctf
+- [x] Simple CTF https://tryhackme.com/room/easyctf
 - [x] Bounty Hacker https://tryhackme.com/room/cowboyhacker
 - [ ] Brute It https://tryhackme.com/room/bruteit
 
 # Level 3 - Crypto & Hashes with CTF practice
-- [ ] Crack the hash https://tryhackme.com/room/crackthehash
+- [x] Crack the hash https://tryhackme.com/room/crackthehash
 - [x] Agent Sudo https://tryhackme.com/room/agentsudoctf
 - [ ] The Cod Caper https://tryhackme.com/room/thecodcaper
 - [x] Ice https://tryhackme.com/room/ice
@@ -45,11 +45,11 @@
 - [x] OWASP top 10 https://tryhackme.com/room/owasptop10
 - [ ] Inclusion https://tryhackme.com/room/inclusion
 - [ ] Injection https://tryhackme.com/room/injection
-- [ ] Vulnversity https://tryhackme.com/room/vulnversity
+- [x] Vulnversity https://tryhackme.com/room/vulnversity
 - [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 - [x] Juiceshop https://tryhackme.com/room/owaspjuiceshop
 - [ ] Ignite https://tryhackme.com/room/ignite
-- [ ] Overpass https://tryhackme.com/room/overpass
+- [x] Overpass https://tryhackme.com/room/overpass
 - [ ] Year of the Rabbit https://tryhackme.com/room/yearoftherabbit
 - [ ] DevelPy https://tryhackme.com/room/bsidesgtdevelpy
 - [ ] Jack of all trades https://tryhackme.com/room/jackofalltrades
@@ -83,9 +83,9 @@
 - [ ] Dogcat https://tryhackme.com/room/dogcat
 - [x] LFI basics https://tryhackme.com/room/lfibasics
 - [ ] Buffer Overflow Prep https://tryhackme.com/room/bufferoverflowprep
-- [ ] Overpass https://tryhackme.com/room/overpass
+- [x] Overpass https://tryhackme.com/room/overpass
 - [ ] Break out the cage https://tryhackme.com/room/breakoutthecage1
-- [ ] Lian Yu https://tryhackme.com/room/lianyu
+- [x] Lian Yu https://tryhackme.com/room/lianyu
 
 # Level 8 - Windows
 - [ ] Attacktive Directory https://tryhackme.com/room/attacktivedirectory

@@ -6,12 +6,12 @@
 # Level 1 - Intro
 - [x] OpenVPN https://tryhackme.com/room/openvpn
 - [x] Welcome https://tryhackme.com/jr/welcome
-- [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
+- [x] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
 - [x] Learn Linux https://tryhackme.com/module/linux-fundamentals
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+- [x] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 - [x] Google Dorking https://tryhackme.com/room/googledorking
-- [ ] OHsint https://tryhackme.com/room/ohsint
+- [x] OHsint https://tryhackme.com/room/ohsint
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
 # Level 2 - Tooling

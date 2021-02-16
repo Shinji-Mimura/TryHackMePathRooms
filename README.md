@@ -71,7 +71,7 @@
 - [ ] Linux Privesc Arena https://tryhackme.com/room/linuxprivescarena
 - [ ] Windows Privesc https://tryhackme.com/room/windows10privesc
 - [ ] Blaster https://tryhackme.com/room/blaster
-- [ ] Ignite https://tryhackme.com/room/ignite
+- [x] Ignite https://tryhackme.com/room/ignite
 - [x] Kenobi https://tryhackme.com/room/kenobi
 - [ ] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
 - [x] Pickle Rick https://tryhackme.com/room/picklerick
